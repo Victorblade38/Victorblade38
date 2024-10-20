@@ -14,5 +14,4 @@ I'm a Computer Science graduate with a passion for web development, particularly
 - **Databases:** MongoDB
 - **Others:** Figma, Git, GitHub
 
-### My GitHub Stats:
-![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
