@@ -10,7 +10,7 @@ I'm a Computer Science graduate with a passion for web development, particularly
 
 ### Languages and Tools:
 - **Frontend:** HTML, CSS, JavaScript, React.js, TailwindCss
-- **Backend:** Node.js, Express.js
+- **Backend:** Sql, Node.js, Express.js
 - **Databases:** MongoDB
 - **Others:** Figma, Git, GitHub ,Postman
 
