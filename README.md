@@ -1,19 +1,40 @@
 # Hi there, I'm Pratham! 👋
 
-I'm a Computer Science graduate with a passion for web development, particularly in JavaScript and React.js. I love creating dynamic web interfaces and learning new technologies.
+I'm a Computer Science graduate passionate about building beautiful, responsive web apps using **JavaScript**, **React.js**, and modern UI/UX principles. I love turning ideas into clean, interactive user experiences.
 
-- 🔭 I’m currently working on my [InfoDaily](https://github.com/Victorblade38/infodaily-react)
-- 🌱 I’m learning Data Structures and Algorithms in JavaScript.
-- 👯 I’m looking to collaborate on open-source projects.
-- 📫 Reach me at: [prathammhavale38@gmail.com](prathammhavale38@gmail.com)
-- ⚡ Fun fact: I love drawing and cricket!
+---
 
-### Languages and Tools:
-- **Frontend:** HTML, CSS, JavaScript, React.js, TailwindCss
-- **Backend:** Sql, Node.js, Express.js
-- **Databases:** MongoDB
-- **Others:** Figma, Git, GitHub ,Postman
+### 🚀 What I'm Working On
+- 🧑‍🍳 Building a **Recipe App** to explore UI states, forms, and API integration  
+- 🎨 Diving deeper into **UI/UX** – focusing on user flows, wireframing & prototyping  
+- 🌱 Learning advanced **Data Structures & Algorithms in JavaScript**  
+- 👯 Open to collaborating on **frontend/UI/UX projects** and open-source
 
-can you make this better
+---
 
+### 💼 Portfolio & Contact
+- 🌐 Portfolio: [prathammhavale.vercel.app](https://prathammhavale.vercel.app)  
+- 📫 Email: [prathammhavale38@gmail.com](mailto:prathammhavale38@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/pratham-mhavale](https://www.linkedin.com/in/pratham-mhavale/)
 
+---
+
+### 🧰 Tech Stack
+
+**Frontend:**  
+HTML5 · CSS3 · JavaScript · React.js · Tailwind CSS  
+
+**Backend & DB:**  
+Node.js · Express.js · MongoDB · SQL  
+
+**Design & Tools:**  
+Figma · Wireframing · Prototyping · Git · GitHub · Postman · Linux · SEO
+
+---
+
+### ⚡ Fun Fact  
+When I’m not coding, I’m probably sketching, editing videos, or playing cricket! 🎨🏏
+
+---
+
+> “Code is my canvas. Design is my brush.”
