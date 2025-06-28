@@ -6,9 +6,8 @@ I'm a Computer Science graduate passionate about building beautiful, responsive 
 
 ### 🚀 What I'm Working On
 - 🧑‍🍳 Building a **Recipe App** to explore UI states, forms, and API integration  
-- 🎨 Diving deeper into **UI/UX** – focusing on user flows, wireframing & prototyping  
-- 🌱 Learning advanced **Data Structures & Algorithms in JavaScript**  
-- 👯 Open to collaborating on **frontend/UI/UX projects** and open-source
+- 🎨 Diving deeper into **UI/UX** – focusing on user flows, wireframing & prototyping   
+- 👯 Open to collaborating on **UI/UX projects** 
 
 ---
 
